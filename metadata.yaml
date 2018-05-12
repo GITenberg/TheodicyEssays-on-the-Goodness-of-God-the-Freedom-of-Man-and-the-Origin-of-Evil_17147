@@ -1,0 +1,52 @@
+_repo: TheodicyEssays-on-the-Goodness-of-God-the-Freedom-of-Man-and-the-Origin-of-Evil_17147
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Farrer, Austin
+    alias: Farrer, Austin Marsden
+    birthdate: 1904
+    deathdate: 1968
+    gutenberg_agent_id: '7169'
+    url: http://www.gutenberg.org/2009/agents/7169
+  translator:
+    agent_name: Huggard, E. M.
+    gutenberg_agent_id: '7170'
+    url: http://www.gutenberg.org/2009/agents/7170
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leibniz, Gottfried Wilhelm, Freiherr von
+    aliases:
+    - Leibnizius, Gotfridus Guilelmus
+    - Leibnitz, Godefroy-Guillaume
+    - Leibniz, G. W.
+    - Leibniz, Georg Wilhelm
+    - Leibnitius, Godefridus Guilielmus
+    - Ulicovius Lithuanus, Georgius
+    - Lithuanus, Georgius Ulicovius
+    - Leibnizius, Godefridus Guilielmus
+    birthdate: 1646
+    deathdate: 1716
+    gutenberg_agent_id: '7168'
+    url: http://www.gutenberg.org/2009/agents/7168
+    wikipedia: http://en.wikipedia.org/wiki/Gottfried_Leibniz
+description: ''
+gutenberg_issued: '2005-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free will and determinism'
+- !lcsh 'Theodicy'
+- !lcsh 'Theism'
+- !lcc 'BT'
+title: 'Theodicy
+
+  Essays on the Goodness of God, the Freedom of Man and the Origin of Evil'
+url: http://www.gutenberg.org/ebooks/17147
