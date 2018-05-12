@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7168
     wikipedia: http://en.wikipedia.org/wiki/Gottfried_Leibniz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17147#TheodicyEssays-on-the-Goodness-of-God-the-Freedom-of-Man-and-the-Origin-of-Evil
 gutenberg_issued: '2005-11-24'
 gutenberg_type: Text
 identifiers:
